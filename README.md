@@ -1,3 +1,3 @@
 #Demo 
 
-Learning gitnub
+Learning gitHub
